@@ -25,13 +25,13 @@ AI generated checklist of things to learn about linux through booting arch. i us
 
 ## 🧱 1. Install Arch from Scratch
 
-- [ ] Partition disk manually with `fdisk` / `gdisk`
-- [ ] Format partitions (ext4 / btrfs / vfat)
-- [ ] Mount partitions manually
-- [ ] Use `pacstrap` to install base system
-- [ ] Configure locale, hostname, timezone, etc.
-- [ ] Install GRUB or systemd-boot
-- [ ] (Optional) Full disk encryption with LUKS
+- [x] Partition disk manually with `fdisk` / `gdisk`
+- [x] Format partitions (ext4 / btrfs / vfat)
+- [x] Mount partitions manually
+- [x] Use `pacstrap` to install base system
+- [x] Configure locale, hostname, timezone, etc.
+- [x] Install GRUB or systemd-boot
+- [ ] (Optional) Full disk encryption with LUKS -> I don't care enough, just like how no one uses bitlocker.
 
 ---
 
